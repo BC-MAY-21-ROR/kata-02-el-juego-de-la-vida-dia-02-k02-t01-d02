@@ -1,6 +1,8 @@
 require './game.rb'
 require './Matrix.rb'
 
+#getset class
+
 class Variable
     attr_accessor :alive
     attr_writer :status
