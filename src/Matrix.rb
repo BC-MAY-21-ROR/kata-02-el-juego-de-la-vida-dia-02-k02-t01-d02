@@ -1,4 +1,5 @@
 require './Variables.rb'
+require './game.rb'
 
 
 class Grid
